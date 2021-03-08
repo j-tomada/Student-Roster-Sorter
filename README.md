@@ -1,6 +1,7 @@
 # Student Roster Sorter
 
 Author: Joseph Tomada
+
 Approximate time to complete: 2 weeks
 
 This was a school assigned project designed for students to create whatever they wish provided they follow certain conditions. This program serves as a basic way for teachers to organize a list of students and see which among them are performing better than others. This is accomplished via a **sorting algorithm** which sorts the student's GPA from highest to lowest. If a teacher, or whomever the use is, wishes to insert previous data, they can enter in a file with the following format:
